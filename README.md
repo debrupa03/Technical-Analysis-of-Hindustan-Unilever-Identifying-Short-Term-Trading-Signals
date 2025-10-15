@@ -15,6 +15,6 @@ Golden and Death Crosses were examined against subsequent market movements, whil
 The study found that Golden Crosses aligned with major upward trends, while Death Crosses indicated short-term corrections. The Ultimate Oscillator effectively highlighted overbought and oversold zones before price reversals, and the Stochastic Oscillator provided quick momentum cues. Combined, these indicators improved signal accuracy, showcasing analytical precision.
 
 # Tools & Skills Used:
-** Microsoft Excel – Formulas, rolling averages, data visualization, chart annotation
-** Financial Analysis – Technical indicators, trend analysis, market interpretation
-** Analytical Thinking – Deriving actionable insights from time-series data
+** * Microsoft Excel – Formulas, rolling averages, data visualization, chart annotation
+** *Financial Analysis – Technical indicators, trend analysis, market interpretation
+** *Analytical Thinking – Deriving actionable insights from time-series data
